@@ -1,63 +1,81 @@
-## :wave: Hello there  
+<!-- ================= HEADER IMAGE ================= -->
+![Header](./header.png)
 
-```javascript  
-// Welcome to my page  
-const getInformation = async () => {  
-    const information = await fetch("https://database/oghosto-M/information").then(res => res.json())  
-    return information  
-}
+# Hi, I'm Mohammad Mirzaie 👋
+**Biomedical Engineering student · Software Developer**  
+Building production-ready web & desktop apps. Sharing projects and tutorials on GitHub & YouTube.
 
-(async () => {  
-    const data = await getInformation();  
-    console.log(data);
-})() 
+---
 
-// Output :  
-{  
-    name: "mohammad",  
-    lastname: "mirzaie",  
-    age: "20",  
-    job: "web developer",  
-}
-```
-<h2>⚡️ &nbsp; Github Stats</h2>
-<br/>
-<div style="display: flex; justify-content: justify-around; align-items: center;">  
-<img height=250 src="https://github-readme-stats.vercel.app/api?username=oghosto-M&show_icons=true&theme=merko&card_width=300"/>
-<img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosto-M&size_weight=0.5&count_weight=0.5&theme=merko"/>
-</div>  
-<h2>🔧 &nbsp; Tech Stack</h2>
+## 🛠 Skills
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![express js](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Tailwind](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwind-css)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Next](https://img.shields.io/badge/-next.js-333333?style=flat&logo=nextdotjs)
-  ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+### Programming Languages
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-%23007ACC.svg?logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg)
 
-<br />
+### Front-end Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%23000000.svg?logo=axios&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?logo=reactquery&logoColor=white)
 
+### State Management
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg)
 
-<h2>📞 &nbsp; Connct Me </h2>
+### Back-end & API
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23007ACC.svg)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?logo=graphql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-%23000000.svg?logo=socketdotio&logoColor=white)
+![WS](https://img.shields.io/badge/WS-%23000000.svg)
+![gRPC](https://img.shields.io/badge/gRPC-%23007ACC.svg)
+![Sequelize](https://img.shields.io/badge/Sequelize-%23000000.svg?logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%23007ACC.svg)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg)
+![Testing](https://img.shields.io/badge/Testing-%23FF4154.svg)
 
-<p align="center">
-  <a href="https://t.me/aminkhoy78/">
-    <img src="https://img.shields.io/badge/Telegram-@oghostoM-blue?style=flat&logo=telegram" />
-  </a>
-</p>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%230074AD.svg?logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
+
+### Dev Tools & Package Managers
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23007ACC.svg)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-%23007ACC.svg?logo=yarn&logoColor=white)
+
+### Desktop & Design
+![Electron](https://img.shields.io/badge/Electron-%236C6C6C.svg?logo=electron&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%231878CC.svg?logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-mirzaie-gh&show_icons=true&count_private=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-mirzaie-gh&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📬 Contact Me
+
+- Telegram: [@mohammad_mirzaie](https://t.me/mohammad_mirzaie)
+- Email: [mohammad.mirzaie.ghei@gmail.com](mailto:mohammad.mirzaie.ghei@gmail.com)
+- LinkedIn: [Mohammad Mirzaie](https://www.linkedin.com/in/mohammad-mirzaie)
