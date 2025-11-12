@@ -2,8 +2,11 @@
 ![Header](./header.png)
 
 # Hi, I'm Mohammad Mirzaie 👋
-**Biomedical Engineering student · Software Developer**  
-Building production-ready web & desktop apps. Sharing projects and tutorials on GitHub & YouTube.
+**Biomedical Engineering Student · Software Developer**  
+
+I specialize in developing production-ready web and desktop applications with a strong focus on efficiency, scalability, and maintainability.  
+Passionate about leveraging software solutions to enhance biomedical research and healthcare technologies.  
+Sharing knowledge, projects, and tutorials on GitHub and YouTube to contribute to the developer and scientific community.
 
 ---
 
@@ -76,6 +79,7 @@ Building production-ready web & desktop apps. Sharing projects and tutorials on 
 
 ## 📬 Contact Me
 
-- Telegram: [@mohammad_mirzaie](https://t.me/mohammad_mirzaie)
-- Email: [mohammad.mirzaie.ghei@gmail.com](mailto:mohammad.mirzaie.ghei@gmail.com)
-- LinkedIn: [Mohammad Mirzaie](https://www.linkedin.com/in/mohammad-mirzaie)
+[![Telegram](https://img.shields.io/badge/Telegram-%2300B2FF.svg?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/mohammad_mirzaie_ghei)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mohammad.mirzaie.ghei@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammad-mirzaie)
+
