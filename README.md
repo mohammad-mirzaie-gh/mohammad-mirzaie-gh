@@ -1,5 +1,5 @@
 <!-- ================= HEADER IMAGE ================= -->
-![Header](./github-mohammad-nirzaie-ghei.png)
+![Header](./Github-mohammad-nirzaie-ghei.png)
 
 # Hi, I'm Mohammad Mirzaie 👋
 **Biomedical Engineering Student · Software Developer**  
